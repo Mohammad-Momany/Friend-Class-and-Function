@@ -166,7 +166,6 @@ int CalcTotalVIPRoomsIncome(clsHotel Hotel)
    return Hotel.VIPRentPrice * Hotel.VIPRoomsNumber;
 }
 
-
 int main()
 {
     clsHotel Hotel;
